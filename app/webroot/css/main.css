@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* 
+ * HTML5 ✰ Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling. 
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ *
+ * Detailed information about this CSS: h5bp.com/css
+ * 
+ * ==|== normalize ==========================================================
+ */
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+/*body h1 {
+  display: inline-block;
+  margin: 30px;
+  padding: 10px;
+  font-size: 3em;
+  border-bottom: 4px solid #eee;
+}*/
+body .scrollpanel {
+  float: left;
+  margin: 0;
+  width: 100%;
+  height: 200px;
+  /*border: 1px solid #ccc;*/
+}
+body .scrollpanel .sp-scrollbar {
+  width: 10px;
+  background-color: #ccc;
+  cursor: pointer;
+}
+body .scrollpanel .sp-scrollbar .sp-thumb {
+  background-color: #aaa;
+  -webkit-transition: height 0.2s ease-in-out;
+  -moz-transition: height 0.2s ease-in-out;
+  -ms-transition: height 0.2s ease-in-out;
+  -o-transition: height 0.2s ease-in-out;
+  transition: height 0.2s ease-in-out;
+}
+body .scrollpanel .sp-scrollbar.active .sp-thumb {
+  background-color: #999;
+}
+body .no2 .sp-scrollbar,
+body .no4 .sp-scrollbar {
+  margin: 4px;
+}
+body .no3,
+body .no4 {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+body .no3 .sp-scrollbar,
+body .no4 .sp-scrollbar {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+body .no3 .sp-scrollbar .sp-thumb,
+body .no4 .sp-scrollbar .sp-thumb {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+body .foo {
+  min-height: 30px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  margin: 1em;
+  padding: 1em;
+}

@@ -1,0 +1,991 @@
+[02-May-2013 08:06:18] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/users.ctp on line 10
+[06-May-2013 00:05:08] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/users.ctp on line 51
+[06-May-2013 00:05:12] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/users.ctp on line 51
+[06-May-2013 01:05:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 65
+[06-May-2013 01:09:08] PHP Parse error:  syntax error, unexpected T_ELSE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 65
+[06-May-2013 04:22:13] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Objectives/objectives.ctp on line 62
+[06-May-2013 04:22:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/View/Objectives/objectives.ctp on line 69
+[06-May-2013 04:22:18] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/View/Objectives/objectives.ctp on line 69
+[06-May-2013 04:41:51] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 116
+[06-May-2013 06:52:25] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/add_priority.ctp on line 32
+[06-May-2013 07:44:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:44:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:44:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:44:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:44:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:45:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 145
+[06-May-2013 07:53:51] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 144
+[06-May-2013 07:53:56] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 144
+[06-May-2013 07:53:56] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 144
+[06-May-2013 07:53:56] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 144
+[06-May-2013 07:53:56] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 144
+[06-May-2013 07:55:34] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 116
+[06-May-2013 08:05:36] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/add_priority.ctp on line 22
+[06-May-2013 11:05:27] PHP Fatal error:  Call to undefined method View::loadModel() in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[06-May-2013 11:05:30] PHP Fatal error:  Call to undefined method View::loadModel() in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[06-May-2013 11:07:45] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[06-May-2013 11:13:17] PHP Fatal error:  Call to undefined method View::loadModel() in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[06-May-2013 11:15:06] PHP Fatal error:  Call to undefined method View::loadModel() in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[06-May-2013 11:16:14] PHP Fatal error:  Call to undefined method View::loadModel() in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 152
+[07-May-2013 00:23:30] PHP Fatal error:  Class 'AppController' not found in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 11
+[07-May-2013 00:35:05] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Pages/dashboard.ctp on line 17
+[07-May-2013 00:35:07] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Pages/dashboard.ctp on line 17
+[07-May-2013 00:35:08] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Pages/dashboard.ctp on line 17
+[07-May-2013 00:36:43] PHP Fatal error:  Class 'Route' not found in /home/sixtydev/public_html/dsg/app/View/Pages/dashboard.ctp on line 17
+[07-May-2013 01:19:42] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 108
+[07-May-2013 01:22:35] PHP Fatal error:  Call to undefined method SessionComponent::set() in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 107
+[07-May-2013 01:27:43] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 91
+[07-May-2013 01:27:54] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 91
+[07-May-2013 02:13:49] PHP Fatal error:  Can't use function return value in write context in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 15
+[07-May-2013 02:14:04] PHP Fatal error:  Can't use function return value in write context in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 15
+[07-May-2013 05:33:54] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/View/Teams/teams.ctp on line 116
+[07-May-2013 05:33:54] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/View/Teams/teams.ctp on line 116
+[07-May-2013 07:06:07] PHP Fatal error:  Call to a member function saveAll() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 28
+[07-May-2013 07:06:21] PHP Fatal error:  Call to a member function save() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 28
+[07-May-2013 07:06:24] PHP Fatal error:  Call to a member function save() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 28
+[07-May-2013 07:42:16] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Teams/add_team.ctp on line 67
+[07-May-2013 07:51:44] PHP Fatal error:  Call to a member function input() on a non-object in /home/sixtydev/public_html/dsg/app/View/Teams/add_team.ctp on line 69
+[07-May-2013 07:53:46] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Teams/add_team.ctp on line 67
+[07-May-2013 09:03:01] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 58
+[07-May-2013 09:03:04] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 58
+[07-May-2013 09:35:16] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/add_team.ctp on line 25
+[08-May-2013 01:48:48] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 16
+[08-May-2013 01:48:52] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 16
+[08-May-2013 01:49:30] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 16
+[08-May-2013 02:18:40] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 34
+[08-May-2013 07:05:29] PHP Fatal error:  Call to a member function saveAll() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 26
+[08-May-2013 07:22:30] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/View/Quarters/quarters.ctp on line 46
+[08-May-2013 07:22:33] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/View/Quarters/quarters.ctp on line 46
+[08-May-2013 07:23:45] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/View/Quarters/quarters.ctp on line 46
+[08-May-2013 07:23:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sixtydev/public_html/dsg/app/View/Quarters/quarters.ctp on line 46
+[08-May-2013 07:23:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sixtydev/public_html/dsg/app/View/Quarters/quarters.ctp on line 46
+[08-May-2013 09:12:54] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 96
+[08-May-2013 09:14:28] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 115
+[09-May-2013 00:13:28] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Users/adduser.ctp on line 82
+[09-May-2013 00:31:38] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 155
+[09-May-2013 00:31:40] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 155
+[09-May-2013 00:32:21] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 82
+[09-May-2013 00:46:17] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 20
+[09-May-2013 01:15:59] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 19
+[09-May-2013 01:16:00] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 19
+[09-May-2013 01:26:49] PHP Fatal error:  Call to a member function check() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 134
+[09-May-2013 02:07:08] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 86
+[09-May-2013 02:17:07] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 87
+[09-May-2013 02:17:19] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 29
+[09-May-2013 02:17:21] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 29
+[09-May-2013 02:17:37] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 29
+[09-May-2013 02:17:38] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 29
+[09-May-2013 02:25:17] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 87
+[09-May-2013 02:30:17] PHP Fatal error:  Call to undefined function  _compact() in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 40
+[09-May-2013 02:30:20] PHP Fatal error:  Call to undefined function  _compact() in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 40
+[09-May-2013 02:36:30] PHP Parse error:  syntax error, unexpected ':' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:36:31] PHP Parse error:  syntax error, unexpected ':' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:36:32] PHP Parse error:  syntax error, unexpected ':' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:36:41] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:36:42] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:37:16] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 138
+[09-May-2013 02:58:42] PHP Fatal error:  Call to a member function query() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 173
+[09-May-2013 10:25:25] PHP Fatal error:  require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SimpleImage.php' (include_path='/home/sixtydev/public_html/dsg/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 176
+[09-May-2013 10:36:24] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 115
+[09-May-2013 10:39:34] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 115
+[10-May-2013 00:25:38] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 223
+[10-May-2013 03:00:17] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/sixtydev/public_html/dsg/app/View/Elements/header.ctp on line 67
+[10-May-2013 03:00:22] PHP Parse error:  syntax error, unexpected '}' in /home/sixtydev/public_html/dsg/app/View/Elements/header.ctp on line 81
+[10-May-2013 03:00:28] PHP Parse error:  syntax error, unexpected '}' in /home/sixtydev/public_html/dsg/app/View/Elements/header.ctp on line 81
+[10-May-2013 08:23:04] PHP Parse error:  syntax error, unexpected T_IF in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 30
+[10-May-2013 08:32:49] PHP Parse error:  syntax error, unexpected T_IF in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 30
+[10-May-2013 08:54:26] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 30
+[10-May-2013 08:54:42] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 88
+[10-May-2013 11:11:14] PHP Parse error:  syntax error, unexpected T_EXIT in /home/sixtydev/public_html/dsg/app/Controller/PagesController.php on line 62
+[10-May-2013 11:11:15] PHP Parse error:  syntax error, unexpected T_EXIT in /home/sixtydev/public_html/dsg/app/Controller/PagesController.php on line 62
+[10-May-2013 11:11:17] PHP Parse error:  syntax error, unexpected T_EXIT in /home/sixtydev/public_html/dsg/app/Controller/PagesController.php on line 62
+[10-May-2013 11:11:18] PHP Parse error:  syntax error, unexpected T_EXIT in /home/sixtydev/public_html/dsg/app/Controller/PagesController.php on line 62
+[16-May-2013 01:11:16] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[16-May-2013 01:11:19] PHP Fatal error:  Unsupported operand types in /home/sixtydev/public_html/dsg/lib/Cake/Model/Datasource/DboSource.php on line 423
+[16-May-2013 01:11:22] PHP Fatal error:  Unsupported operand types in /home/sixtydev/public_html/dsg/lib/Cake/Model/Datasource/DboSource.php on line 423
+[16-May-2013 01:11:23] PHP Fatal error:  Unsupported operand types in /home/sixtydev/public_html/dsg/lib/Cake/Model/Datasource/DboSource.php on line 423
+[16-May-2013 01:44:09] PHP Fatal error:  Class 'AppController' not found in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 8
+[16-May-2013 03:32:40] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 171
+[16-May-2013 09:59:00] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 172
+[16-May-2013 09:59:05] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Users/edit.ctp on line 172
+[17-May-2013 01:26:20] PHP Fatal error:  Cannot redeclare class User in /home/sixtydev/public_html/dsg/app/Model/Company.php on line 33
+[17-May-2013 01:26:24] PHP Fatal error:  Cannot redeclare class User in /home/sixtydev/public_html/dsg/app/Model/Company.php on line 33
+[17-May-2013 06:47:48] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 45
+[17-May-2013 06:50:15] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 46
+[17-May-2013 06:50:18] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 46
+[17-May-2013 06:54:13] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 46
+[17-May-2013 06:57:24] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 46
+[17-May-2013 06:57:26] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 46
+[17-May-2013 08:48:29] PHP Fatal error:  Call to undefined method Router::_url() in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 87
+[17-May-2013 08:48:31] PHP Fatal error:  Call to undefined method Router::_url() in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 87
+[17-May-2013 09:28:10] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 159
+[17-May-2013 09:30:47] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 116
+[17-May-2013 09:30:47] PHP Parse error:  syntax error, unexpected '/' in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 116
+[20-May-2013 03:13:10] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 162
+[20-May-2013 03:13:14] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 162
+[20-May-2013 03:13:27] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 162
+[20-May-2013 03:14:30] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 162
+[20-May-2013 03:14:33] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 162
+[20-May-2013 03:14:48] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 163
+[20-May-2013 03:14:50] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 163
+[20-May-2013 03:14:52] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 163
+[20-May-2013 03:16:37] PHP Parse error:  syntax error, unexpected '.' in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 164
+[20-May-2013 03:16:39] PHP Parse error:  syntax error, unexpected '.' in /home/sixtydev/public_html/dsg/app/View/Stucks/stucks.ctp on line 164
+[20-May-2013 06:25:59] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 308
+[20-May-2013 06:26:01] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 308
+[20-May-2013 07:37:20] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 320
+[20-May-2013 07:38:54] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 322
+[20-May-2013 07:40:05] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 323
+[20-May-2013 07:40:29] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 322
+[20-May-2013 07:40:31] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 322
+[20-May-2013 07:40:51] PHP Fatal error:  Cannot use string offset as an array in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 322
+[20-May-2013 07:43:08] PHP Parse error:  syntax error, unexpected T_ARRAY_CAST in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 297
+[20-May-2013 07:43:12] PHP Parse error:  syntax error, unexpected T_ARRAY_CAST in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 297
+[20-May-2013 07:45:23] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 297
+[20-May-2013 07:45:25] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 297
+[20-May-2013 08:01:26] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 74
+[20-May-2013 08:01:56] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 74
+[20-May-2013 08:03:05] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 78
+[20-May-2013 08:03:05] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 78
+[20-May-2013 08:03:08] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 78
+[20-May-2013 08:10:27] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 287
+[20-May-2013 08:22:07] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 413
+[20-May-2013 08:29:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/StucksController.php on line 39
+[20-May-2013 08:29:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/StucksController.php on line 39
+[20-May-2013 08:29:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/StucksController.php on line 39
+[20-May-2013 08:29:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/StucksController.php on line 39
+[20-May-2013 09:49:38] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 288
+[21-May-2013 02:37:25] PHP Fatal error:  Call to undefined method CakeEmail::format() in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 58
+[21-May-2013 02:50:09] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 57
+[21-May-2013 03:25:33] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 93
+[21-May-2013 03:25:33] PHP Parse error:  syntax error, unexpected T_STRING in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 93
+[21-May-2013 03:26:07] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 93
+[21-May-2013 03:29:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 11
+[21-May-2013 03:30:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 11
+[21-May-2013 03:30:26] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 11
+[21-May-2013 03:30:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 11
+[21-May-2013 03:30:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 11
+[21-May-2013 03:30:58] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 12
+[21-May-2013 03:30:59] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 12
+[21-May-2013 03:31:00] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 12
+[21-May-2013 03:31:41] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:31:47] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:31:48] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:31:49] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:32:06] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:32:09] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:32:25] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:32:27] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:32:28] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 108
+[21-May-2013 03:34:24] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 110
+[21-May-2013 03:34:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 110
+[27-May-2013 06:44:52] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 121
+[27-May-2013 06:50:53] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 68
+[27-May-2013 07:48:36] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 67
+[28-May-2013 02:16:31] PHP Fatal error:  Call to a member function find() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/PlanfieldsController.php on line 19
+[28-May-2013 05:49:36] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sixtydev/public_html/dsg/app/View/Planfields/one_page.ctp on line 85
+[28-May-2013 05:49:40] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sixtydev/public_html/dsg/app/View/Planfields/one_page.ctp on line 85
+[28-May-2013 05:50:00] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sixtydev/public_html/dsg/app/View/Planfields/one_page.ctp on line 85
+[28-May-2013 05:50:36] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sixtydev/public_html/dsg/app/View/Planfields/one_page.ctp on line 85
+[28-May-2013 05:50:38] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sixtydev/public_html/dsg/app/View/Planfields/one_page.ctp on line 85
+[04-Jun-2013 01:54:22] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Planfields/edit_one_page.ctp on line 183
+[04-Jun-2013 02:02:08] PHP Fatal error:  Call to undefined method View::link() in /home/sixtydev/public_html/dsg/app/View/Planfields/edit_one_page.ctp on line 65
+[04-Jun-2013 02:02:11] PHP Fatal error:  Call to undefined method View::link() in /home/sixtydev/public_html/dsg/app/View/Planfields/edit_one_page.ctp on line 65
+[07-Jun-2013 06:58:05] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 270
+[07-Jun-2013 07:01:33] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 108
+[07-Jun-2013 07:01:33] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 108
+[07-Jun-2013 07:20:17] PHP Parse error:  syntax error, unexpected '}' in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:20:23] PHP Parse error:  syntax error, unexpected '}' in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:20:36] PHP Fatal error:  Call to undefined method View::setFlash() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:20:40] PHP Fatal error:  Call to undefined method View::setFlash() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:21:53] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 63
+[07-Jun-2013 07:21:56] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 63
+[07-Jun-2013 07:22:52] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:22:55] PHP Fatal error:  Call to undefined method View::redirect() in /home/sixtydev/public_html/dsg/app/View/Companies/super_admin_dashboard.ctp on line 62
+[07-Jun-2013 07:34:34] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 35
+[07-Jun-2013 07:34:36] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 35
+[07-Jun-2013 08:15:36] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 181
+[07-Jun-2013 08:15:38] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 181
+[07-Jun-2013 08:15:40] PHP Parse error:  syntax error, unexpected ';' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 181
+[07-Jun-2013 08:16:12] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:16:12] PHP Parse error:  syntax error, unexpected '{' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:18:25] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:18:25] PHP Parse error:  syntax error, unexpected '{' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:28:27] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 63
+[07-Jun-2013 08:32:09] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:32:09] PHP Parse error:  syntax error, unexpected '{' in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 86
+[07-Jun-2013 08:37:11] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:37:15] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:37:37] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:37:39] PHP Fatal error:  Can't use method return value in write context in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:40:34] PHP Parse error:  syntax error, unexpected ')' in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:40:37] PHP Parse error:  syntax error, unexpected ')' in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 42
+[07-Jun-2013 08:52:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:52:44] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:53:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:54:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:54:01] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 108
+[07-Jun-2013 08:54:01] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 108
+[07-Jun-2013 08:57:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:57:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:57:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 162
+[07-Jun-2013 08:59:12] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 200
+[07-Jun-2013 08:59:12] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in /home/sixtydev/public_html/dsg/app/Controller/UsersController.php on line 200
+[10-Jun-2013 01:29:36] PHP Fatal error:  Call to a member function viewVars() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/StucksController.php on line 43
+[10-Jun-2013 03:17:45] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 150
+[10-Jun-2013 03:26:05] PHP Fatal error:  Can't use function return value in write context in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 145
+[10-Jun-2013 03:26:12] PHP Fatal error:  Can't use function return value in write context in /home/sixtydev/public_html/dsg/app/View/Companies/dashboard.ctp on line 145
+[10-Jun-2013 04:26:17] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 49
+[10-Jun-2013 04:28:23] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 217
+[10-Jun-2013 04:28:40] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 176
+[10-Jun-2013 04:41:30] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 210
+[10-Jun-2013 04:50:07] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 103
+[10-Jun-2013 04:50:23] PHP Parse error:  syntax error, unexpected $end in /home/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 103
+[12-Jun-2013 05:37:29] PHP Parse error:  syntax error, unexpected '<' in /home/sixtydev/public_html/dsg/app/View/Elements/header_inner.ctp on line 73
+[02-Jul-2013 02:58:44] PHP Fatal error:  Call to a member function read() on a non-object in /home/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 53
+[25-Oct-2013 07:03:22] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/sixtydev/public_html/dsg/app/View/Priorities/add_priority.ctp on line 35
+[25-Oct-2013 07:04:47] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/sixtydev/public_html/dsg/app/View/Priorities/add_priority.ctp on line 35
+[25-Oct-2013 07:05:27] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/sixtydev/public_html/dsg/app/View/Priorities/add_priority.ctp on line 35
+[25-Oct-2013 08:26:46] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 386
+[28-Oct-2013 00:14:57] PHP Parse error:  syntax error, unexpected '<' in /home1/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 207
+[28-Oct-2013 00:15:00] PHP Parse error:  syntax error, unexpected '<' in /home1/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 207
+[28-Oct-2013 00:15:54] PHP Parse error:  syntax error, unexpected '<' in /home1/sixtydev/public_html/dsg/app/View/Priorities/index.ctp on line 207
+[28-Oct-2013 02:32:42] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 338
+[28-Oct-2013 02:33:27] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 335
+[28-Oct-2013 02:33:30] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 335
+[28-Oct-2013 02:36:55] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 335
+[28-Oct-2013 02:37:12] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 335
+[28-Oct-2013 04:38:33] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 53
+[28-Oct-2013 04:38:36] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 53
+[28-Oct-2013 04:49:13] PHP Parse error:  syntax error, unexpected '[' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 372
+[28-Oct-2013 05:26:36] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 395
+[28-Oct-2013 05:26:39] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 395
+[28-Oct-2013 05:54:14] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 495
+[28-Oct-2013 05:57:29] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 186
+[28-Oct-2013 05:58:07] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 186
+[28-Oct-2013 05:58:47] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 128
+[28-Oct-2013 06:00:36] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 128
+[28-Oct-2013 06:01:46] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 128
+[28-Oct-2013 06:01:49] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 76
+[28-Oct-2013 06:04:05] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 123
+[28-Oct-2013 06:05:52] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 123
+[28-Oct-2013 06:07:29] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 124
+[28-Oct-2013 06:09:35] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 124
+[28-Oct-2013 06:23:28] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 409
+[28-Oct-2013 06:24:14] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:24:17] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:24:24] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:26:18] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:26:23] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:27:37] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 408
+[28-Oct-2013 06:40:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 385
+[28-Oct-2013 06:48:17] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:49:30] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:49:43] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:50:56] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:51:51] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:52:25] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:52:49] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 336
+[28-Oct-2013 06:53:10] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:54:01] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 06:55:36] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 436
+[28-Oct-2013 07:09:37] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 281
+[28-Oct-2013 07:11:05] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 280
+[28-Oct-2013 07:11:07] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 280
+[28-Oct-2013 07:11:37] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 280
+[28-Oct-2013 07:27:59] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 275
+[28-Oct-2013 07:31:11] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 305
+[28-Oct-2013 07:42:08] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 130
+[28-Oct-2013 07:42:50] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 131
+[28-Oct-2013 07:42:52] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 131
+[28-Oct-2013 07:45:08] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 131
+[28-Oct-2013 07:52:17] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 132
+[28-Oct-2013 07:52:20] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 132
+[28-Oct-2013 08:03:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 131
+[28-Oct-2013 08:54:33] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 31
+[28-Oct-2013 09:32:48] PHP Fatal error:  Call to a member function query() on a non-object in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 30
+[28-Oct-2013 09:34:03] PHP Fatal error:  Call to a member function query() on a non-object in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 30
+[28-Oct-2013 09:47:03] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:47:06] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:47:09] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:47:47] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:48:06] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:48:08] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:48:52] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:49:26] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:51:17] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 269
+[28-Oct-2013 09:51:20] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 269
+[28-Oct-2013 09:52:05] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 268
+[28-Oct-2013 09:59:15] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 141
+[28-Oct-2013 09:59:18] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 141
+[28-Oct-2013 10:00:00] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 141
+[28-Oct-2013 10:00:26] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 141
+[28-Oct-2013 10:00:50] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 141
+[28-Oct-2013 10:01:38] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 142
+[28-Oct-2013 10:06:15] PHP Fatal error:  Call to undefined function  base_url() in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 143
+[29-Oct-2013 00:32:09] PHP Parse error:  syntax error, unexpected T_IS_EQUAL, expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 159
+[29-Oct-2013 00:45:34] PHP Parse error:  syntax error, unexpected '*' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 172
+[29-Oct-2013 00:54:22] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 21
+[29-Oct-2013 01:30:33] PHP Parse error:  syntax error, unexpected T_EXIT in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 18
+[29-Oct-2013 01:37:55] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 14
+[29-Oct-2013 02:43:36] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 39
+[29-Oct-2013 02:43:39] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 39
+[29-Oct-2013 03:02:57] PHP Fatal error:  Call to undefined method TeamsController::team_edit() in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 170
+[29-Oct-2013 04:48:17] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/View/Teams/editteam.ctp on line 54
+[29-Oct-2013 06:26:39] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 179
+[29-Oct-2013 06:58:23] PHP Fatal error:  Call to a member function dailyHuddle() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 185
+[29-Oct-2013 06:58:28] PHP Fatal error:  Call to a member function dailyHuddle() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 185
+[29-Oct-2013 07:34:06] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 52
+[29-Oct-2013 07:34:06] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/Model/Team.php on line 52
+[29-Oct-2013 10:16:26] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[29-Oct-2013 10:16:31] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[29-Oct-2013 10:16:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[29-Oct-2013 10:18:02] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[29-Oct-2013 10:18:09] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[29-Oct-2013 10:18:43] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 46
+[29-Oct-2013 10:18:43] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 46
+[29-Oct-2013 10:18:45] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 46
+[30-Oct-2013 01:14:25] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 49
+[30-Oct-2013 01:15:17] PHP Parse error:  syntax error, unexpected '.' in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 53
+[30-Oct-2013 05:39:24] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:27] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:30] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 05:39:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 420
+[30-Oct-2013 06:16:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 383
+[30-Oct-2013 06:16:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 383
+[30-Oct-2013 08:10:32] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:14:25] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:14:29] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:14:41] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:15:42] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:15:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:17:03] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:17:40] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:20:24] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:23:13] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 08:23:53] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:24:11] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:25:23] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 432
+[30-Oct-2013 08:26:44] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 440
+[30-Oct-2013 08:28:06] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:28:11] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:28:25] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:31:05] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:31:28] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:31:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:31:56] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:32:48] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:33:48] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:38:42] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:39:20] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:40:16] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:40:40] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:41:55] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:43:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:43:35] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:43:58] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:44:05] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:45:16] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:45:42] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:47:16] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:47:18] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:47:22] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:47:39] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:48:40] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:57:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 435
+[30-Oct-2013 08:58:45] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 08:58:52] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 08:59:53] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:01:22] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:01:25] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:02:14] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:02:17] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:02:39] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:04:02] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:04:21] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:05:35] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:08:10] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:08:44] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:09:25] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:10:22] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 430
+[30-Oct-2013 09:10:38] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 430
+[30-Oct-2013 09:11:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:12:33] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:12:40] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:13:26] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:15:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:16:21] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 429
+[30-Oct-2013 09:22:55] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:22:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:24:12] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:24:15] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:24:31] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:24:58] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:25:02] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 419
+[30-Oct-2013 09:25:37] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 153
+[30-Oct-2013 09:26:06] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 150
+[07-Nov-2013 05:05:55] PHP Fatal error:  Call to a member function query() on a non-object in /home1/sixtydev/public_html/dsg/app/Model/Quarter.php on line 9
+[08-Nov-2013 01:37:13] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 208
+[08-Nov-2013 01:37:14] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 208
+[08-Nov-2013 01:38:00] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 113
+[08-Nov-2013 01:38:00] PHP Parse error:  syntax error, unexpected '{' in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 113
+[08-Nov-2013 04:14:18] PHP Parse error:  syntax error, unexpected '}' in /home1/sixtydev/public_html/dsg/app/Model/Quarter.php on line 14
+[08-Nov-2013 04:38:59] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 162
+[08-Nov-2013 04:55:07] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 107
+[08-Nov-2013 05:04:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 18
+[08-Nov-2013 05:04:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 19
+[08-Nov-2013 05:04:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 19
+[08-Nov-2013 05:04:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 19
+[08-Nov-2013 05:05:37] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 24
+[08-Nov-2013 05:06:10] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 20
+[08-Nov-2013 05:06:11] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 20
+[08-Nov-2013 05:08:46] PHP Fatal error:  Call to a member function paginate() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 32
+[08-Nov-2013 06:27:46] PHP Fatal error:  Call to undefined method PrioritiesController::query() in /home1/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 203
+[08-Nov-2013 06:47:32] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/viewobjectivelog.ctp on line 26
+[08-Nov-2013 06:48:29] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/viewobjectivelog.ctp on line 27
+[08-Nov-2013 06:49:17] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/viewobjectivelog.ctp on line 27
+[08-Nov-2013 06:49:20] PHP Fatal error:  Call to a member function find() on a non-object in /home1/sixtydev/public_html/dsg/app/View/Teams/viewobjectivelog.ctp on line 27
+[11-Nov-2013 04:27:54] PHP Fatal error:  Call to a member function saveAll() on a non-object in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 139
+[11-Nov-2013 05:46:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 121
+[11-Nov-2013 05:57:32] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 307
+[11-Nov-2013 07:04:16] PHP Fatal error:  Call to undefined function  dateadd() in /home1/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 34
+[11-Nov-2013 07:04:24] PHP Fatal error:  Call to undefined function  dateadd() in /home1/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 34
+[11-Nov-2013 07:04:32] PHP Fatal error:  Call to undefined function  dateadd() in /home1/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 34
+[11-Nov-2013 08:01:41] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 42
+[11-Nov-2013 08:06:37] PHP Parse error:  syntax error, unexpected T_STRING in /home1/sixtydev/public_html/dsg/app/Controller/QuartersController.php on line 43
+[11-Nov-2013 23:45:52] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 245
+[11-Nov-2013 23:45:52] PHP Parse error:  syntax error, unexpected $end in /home1/sixtydev/public_html/dsg/app/Controller/CompaniesController.php on line 245
+[12-Nov-2013 01:11:37] PHP Fatal error:  Call to undefined function  compaact() in /home1/sixtydev/public_html/dsg/app/Controller/TeamsController.php on line 131
+[12-Nov-2013 03:40:32] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /home1/sixtydev/public_html/dsg/app/View/Teams/getrecord.ctp on line 75
+[12-Nov-2013 04:17:39] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 60
+[12-Nov-2013 04:21:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 60
+[12-Nov-2013 04:22:41] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 60
+[12-Nov-2013 04:22:59] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 60
+[12-Nov-2013 04:25:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 63
+[12-Nov-2013 05:24:59] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/Controller/PrioritiesController.php on line 253
+[12-Nov-2013 05:44:47] PHP Parse error:  syntax error, unexpected ';' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 62
+[12-Nov-2013 06:24:54] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 60
+[12-Nov-2013 07:57:08] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 67
+[12-Nov-2013 07:57:35] PHP Fatal error:  Cannot use string offset as an array in /home1/sixtydev/public_html/dsg/app/View/Priorities/update_objectives.ctp on line 66
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[25-Dec-2013 00:58:06 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:35:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:00 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:36:00 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:36:15 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:27 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:32 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:39 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:37:40 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:38:33 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:46:38 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:46:48 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[07-Jan-2014 08:47:08 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 03:55:25 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 03:59:23 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[09-Jan-2014 06:25:17 America/Chicago] PHP Warning:  strtotime() [<a href='function.strtotime'>function.strtotime</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CST/-6.0/no DST' instead in /home1/sixtydev/public_html/dsg/lib/Cake/Cache/CacheEngine.php on line 60
+[15-Jan-2014 09:48:41 UTC] PHP Parse error:  syntax error, unexpected 'linkedin' (T_STRING) in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 171
+[15-Jan-2014 11:24:26 UTC] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 146
+[15-Jan-2014 13:48:00 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 174
+[15-Jan-2014 14:13:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 193
+[15-Jan-2014 14:13:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 193
+[15-Jan-2014 14:13:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 193
+[16-Jan-2014 07:22:43 UTC] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 224
+[16-Jan-2014 07:22:52 UTC] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 224
+[16-Jan-2014 10:36:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 69
+[16-Jan-2014 11:25:29 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 56
+[16-Jan-2014 11:28:09 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 56
+[16-Jan-2014 11:49:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/Controller/UsersController.php on line 66
+[16-Jan-2014 13:20:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 167
+[16-Jan-2014 13:20:30 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 167
+[16-Jan-2014 13:24:02 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 169
+[16-Jan-2014 13:25:27 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avanttec/public_html/dsg/app/View/Users/adduser.ctp on line 169
+[17-Jan-2014 07:49:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/Controller/StucksController.php on line 43
+[17-Jan-2014 11:12:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 348
+[17-Jan-2014 12:23:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 103
+[17-Jan-2014 12:59:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 133
+[17-Jan-2014 12:59:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 133
+[17-Jan-2014 12:59:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 133
+[17-Jan-2014 13:00:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 133
+[17-Jan-2014 13:00:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 133
+[17-Jan-2014 13:03:01 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 121
+[17-Jan-2014 13:04:33 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 120
+[17-Jan-2014 14:36:28 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 100
+[17-Jan-2014 14:36:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 100
+[17-Jan-2014 14:37:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 100
+[17-Jan-2014 14:38:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 100
+[17-Jan-2014 14:41:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 110
+[17-Jan-2014 14:42:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 110
+[20-Jan-2014 05:15:49 UTC] PHP Parse error:  syntax error, unexpected 'required' (T_STRING), expecting ')' in /home/avanttec/public_html/dsg/app/View/Priorities/add_priority.ctp on line 41
+[20-Jan-2014 05:15:57 UTC] PHP Parse error:  syntax error, unexpected 'required' (T_STRING), expecting ')' in /home/avanttec/public_html/dsg/app/View/Priorities/add_priority.ctp on line 41
+[20-Jan-2014 07:29:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 345
+[20-Jan-2014 07:29:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 345
+[20-Jan-2014 07:36:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[20-Jan-2014 07:36:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[20-Jan-2014 07:37:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[20-Jan-2014 07:38:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[20-Jan-2014 07:38:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 94
+[20-Jan-2014 08:28:04 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 91
+[20-Jan-2014 08:28:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/avanttec/public_html/dsg/app/Controller/PrioritiesController.php on line 91
+[20-Jan-2014 09:29:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 364
+[20-Jan-2014 09:30:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 364
+[20-Jan-2014 09:31:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 347
+[20-Jan-2014 09:37:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 346
+[20-Jan-2014 09:37:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 346
+[20-Jan-2014 09:37:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 346
+[20-Jan-2014 09:41:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 348
+[20-Jan-2014 09:42:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 346
+[20-Jan-2014 09:42:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 346
+[20-Jan-2014 09:49:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 345
+[20-Jan-2014 09:50:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 345
+[20-Jan-2014 11:51:20 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avanttec/public_html/dsg/app/View/Teams/daily_huddle.ctp on line 347
+[20-Jan-2014 13:28:52 UTC] PHP Fatal error:  Cannot use object of type TeamsController as array in /home/avanttec/public_html/dsg/app/Controller/TeamsController.php on line 26
+[20-Jan-2014 13:28:52 UTC] PHP Fatal error:  Cannot use object of type TeamsController as array in /home/avanttec/public_html/dsg/app/Controller/TeamsController.php on line 26

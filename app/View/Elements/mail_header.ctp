@@ -1,0 +1,1 @@
+<a class="logo" href="<?php echo Router::url('/', true); ?>"><img src="<?php echo Router::url('/', true); ?>images/logo.jpg" alt="logo" /></a>
