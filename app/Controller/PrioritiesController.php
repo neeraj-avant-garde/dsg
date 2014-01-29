@@ -105,8 +105,7 @@ class PrioritiesController extends AppController
                     $this->Session->setFlash('Objective has been added', 'default', array(
                         'class' => 'success'
                     ));
-                   
-                    $this->redirect('/myteams');
+                    $this->redirect('/myteams?t='.$this->request->data['Priority']['team_id'].'&q='.$this->request->data['Priority']['quarter_id']);
                 }
 		
 		

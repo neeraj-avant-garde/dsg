@@ -1,5 +1,6 @@
 <script>
 $('[id=PriorityQuarterId]').val($('#qtrid').val())
+$('#PriorityTeamId').val($('#TeamField').val())
 </script>
 <?php
 echo $this->Form->create('Priority', array('action' => 'add_priority',
@@ -24,9 +25,11 @@ echo $this->Form->create('Priority', array('action' => 'add_priority',
                     echo '<div id="useroutput"></div>';
                     echo $this->Form->input('user_id', array('type' => 'hidden', 'id' => 'user_id'));
                 } else {
-		   
+
                     echo $this->Form->input('user_id', array('type' => 'hidden', 'value' => $user['id']));
                 }
+
+                echo $this->Form->input('team_id', array('type' => 'hidden', 'value' => ''));
 
 
 

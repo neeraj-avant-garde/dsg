@@ -132,8 +132,20 @@ class TeamsController extends AppController {
 		$this->set(compact('quarters'));
 
         //$this->set(compact('ro'));
-        $activeQuarter = $this->Quarter->activeQtr($cc);
+        if(isset($_GET['q']) and $_GET['q']){
+            $activeQuarter = $_GET['q'];
+        } else{
+            $activeQuarter = $this->Quarter->activeQtr($cc);
+        }
+
+        if(isset($_GET['t']) and $_GET['t']){
+            $activeTeam = $_GET['t'];
+        } else{
+            $activeTeam = 0;
+        }
+
         $this->set(compact('activeQuarter'));
+        $this->set(compact('activeTeam'));
     }
 
     function getrecord() {

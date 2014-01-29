@@ -197,6 +197,7 @@ $sel_d = "$('#slectday').val()";
         });
 		
         setQtr(<?php echo $activeQuarter ?>)
+        setTeam()
         getPriorities($('#TeamField'))		
 		
     });
@@ -335,8 +336,12 @@ $sel_d = "$('#slectday').val()";
 
     function setQtr(val) {
         $('#qtrid').val(val);
+    }
     
-
+    function setTeam() {
+        if(<?php echo $activeTeam ?> != 0){
+            $('[id=TeamField]').val(<?php echo $activeTeam ?>)
+        }
     }
 </script>
 
