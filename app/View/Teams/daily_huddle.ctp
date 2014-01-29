@@ -303,6 +303,27 @@ $sel_d = "$('#slectday').val()";
         }
     }
 
+    function getUserByNameAndTeamId(name) {
+        teamId = $('#TeamField').val()
+        if (name.length > 0) {
+            $('#small_loader').show();
+            $.ajax({
+                url: "<?php echo Router::url('/', true); ?>/users/getUserByNameAndTeamId?teamId=" + teamId +"&name="+ name,
+                success: function(data) {
+                    $('#small_loader').hide();
+                    if (data.length > 10) {
+                        $('#useroutput').slideDown('fast');
+                        $('#useroutput').html(data);
+                    } else {
+                        $("#useroutput").hide();
+                    }
+                }
+            });
+        } else {
+            $("#useroutput").hide();
+        }
+    }
+
     function setuser(uid) {
         $('.user_' + uid).css({'background': '#ccc'});
         $('.user_' + uid).siblings().css({'background': 'none'});

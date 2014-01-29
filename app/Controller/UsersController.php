@@ -179,6 +179,29 @@ class UsersController extends AppController {
         die;
     }
 
+    public function getUserByNameAndTeamId() {
+        $teamId = $_GET['teamId'];
+        $name = $_GET['name'];
+        $this->layout = false;
+        $cc = $this->Session->read('current_company');
+        $qry = "SELECT u.id as id, u.avtar as avtar, u.firstname as firstname, u.lastname as lastname, u.email as email 
+        FROM users u 
+        JOIN team_users tu on u.id = tu.user_id
+        WHERE u.company_id = $cc 
+        AND ( u.firstname LIKE '%$name%' OR u.lastname LIKE '%$name%' )
+        AND tu.team_id = $teamId
+        ";
+        $users = $this->User->query($qry);
+        //print_r($users);
+        foreach ($users as $user) {
+            echo '<li id=' . $user['u']['id'] . ' onclick="setuser(this.id)" class="user_' . $user['u']['id'] . '">';
+            echo '<img src="' . Router::url('/') . 'avtars/' . $user['u']['avtar'] . '" width=50/>';
+            echo '<span id="username">' . $user['u']['firstname'] . ' ' . $user['u']['lastname'] . '</span><br>' . $user['u']['email'];
+            echo '</li>';
+        }
+        die;
+    }
+
     public function modify_group($id = null) {
 
         $this->layout = 'ajax';

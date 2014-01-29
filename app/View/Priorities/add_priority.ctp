@@ -1,4 +1,3 @@
-
 <?php
 echo $this->Form->create('Priority', array('action' => 'add_priority',
     'inputDefaults' => array(
@@ -17,7 +16,7 @@ echo $this->Form->create('Priority', array('action' => 'add_priority',
                 $user = $this->session->read('Auth.User');
 
                 if ($user['group_id'] === '1') {
-                    echo $this->Form->input('uid', array('type' => 'text', 'onkeyup' => 'getuser(this.value);', 'id' => 'userinput', 'label' => 'Objective Owner'));
+                    echo $this->Form->input('uid', array('type' => 'text', 'onkeyup' => 'getUserByNameAndTeamId(this.value);', 'id' => 'userinput', 'label' => 'Objective Owner', 'autocomplete' => 'off'));
                     echo '<span id="small_loader"><img src="img/loader.gif" width="20px"></span><br>';
                     echo '<div id="useroutput"></div>';
                     echo $this->Form->input('user_id', array('type' => 'hidden', 'id' => 'user_id'));
