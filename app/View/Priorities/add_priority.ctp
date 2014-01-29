@@ -1,3 +1,6 @@
+<script>
+$('[id=PriorityQuarterId]').val($('#qtrid').val())
+</script>
 <?php
 echo $this->Form->create('Priority', array('action' => 'add_priority',
     'inputDefaults' => array(
@@ -29,7 +32,7 @@ echo $this->Form->create('Priority', array('action' => 'add_priority',
 
 	 //echo $this->Form->input('parent_priority', array('options' => $priorities,'label'=>'Parent Objective')).'<br>';
 
-                echo $this->Form->input('quarter_id', array('options' => $quarter, 'selected' => $activeQtr, 'label' => 'Objective Quarter')) . '<br>';
+                echo $this->Form->input('quarter_id', array('options' => $quarter, 'label' => 'Objective Quarter')) . '<br>';
 
 
                 echo '<h3>Key Progress Indicator  details</h3>';
