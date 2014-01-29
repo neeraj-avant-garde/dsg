@@ -11,6 +11,28 @@ $sel_d = "$('#slectday').val()";
         $('#userinfo_' + id).slideUp();
         $('#btn_' + id).attr('onclick', 'loadInfo(' + id + ')').html('&#10010;');
     }
+
+    function getPriorities(ObjTeam){
+        var id = $(ObjTeam).val();
+        quarterid = $("#qtrid").val();
+        var dataString = 'id=' + id + '&quarterid=' + quarterid;
+
+        url = '<?php echo Router::url("/"); ?>teams/getrecord';
+		if(id!=0) {
+			$('#small_loader').show();
+			$.ajax({
+				type: "POST",
+				url: url,
+				data: dataString,
+				success: function(response){
+					$('#small_loader').hide();
+					$(".city").html(response);
+				}
+			});
+			return false;
+		}        
+    }
+
     $(function() {
         config = {
             toolbar: [
@@ -144,29 +166,8 @@ $sel_d = "$('#slectday').val()";
 
         });
 
-
-
         $(".te_priority").change(function() {
-
-            var id = $(this).val();
-            quarterid = $("#qtrid").val();
-            var dataString = 'id=' + id + '&quarterid=' + quarterid;
-
-            url = '<?php echo Router::url("/"); ?>teams/getrecord';
-			if(id!=0) {
-				$('#small_loader').show();
-				$.ajax({
-					type: "POST",
-					url: url,
-					data: dataString,
-					success: function(response){
-						$('#small_loader').hide();
-						$(".city").html(response);
-					}
-				});
-				return false;
-			}	
-
+            getPriorities(this)
         });
 		
 		$('.pagination ul li').click(function(){
@@ -195,7 +196,8 @@ $sel_d = "$('#slectday').val()";
             return false;
         });
 		
-		
+        setQtr(<?php echo $activeQuarter ?>)
+        getPriorities($('#TeamField'))		
 		
     });
     
@@ -315,11 +317,6 @@ $sel_d = "$('#slectday').val()";
     
 
     }
-
-$(function() {
-    // Handler for .ready() called.
-    setQtr(<?php echo $activeQuarter ?>)
-});
 </script>
 
 <div class='container'>
