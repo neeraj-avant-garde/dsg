@@ -109,7 +109,7 @@ class TeamsController extends AppController {
 		
         $dailyHuddle = $this->Team->find('list', array('conditions' => array('company_id'=>$cc)));
         
-		$dailyHuddle[0] = "Select Team";
+//		$dailyHuddle[0] = "Select Team";
 		
 		ksort($dailyHuddle);
 
@@ -132,6 +132,8 @@ class TeamsController extends AppController {
 		$this->set(compact('quarters'));
 
         //$this->set(compact('ro'));
+        $activeQuarter = $this->Quarter->activeQtr($cc);
+        $this->set(compact('activeQuarter'));
     }
 
     function getrecord() {

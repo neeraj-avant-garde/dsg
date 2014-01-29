@@ -316,6 +316,10 @@ $sel_d = "$('#slectday').val()";
 
     }
 
+$(function() {
+    // Handler for .ready() called.
+    setQtr(<?php echo $activeQuarter ?>)
+});
 </script>
 
 <div class='container'>
@@ -337,10 +341,10 @@ $sel_d = "$('#slectday').val()";
     <div class='well well-small'>
         <div class="pagination pull-left">
             <ul>
-                <li <?php echo ($quarterid == 1) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[0]['quarters']['id'];?>);" >Q1</a></li>
-                <li <?php echo ($quarterid == 2) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[1]['quarters']['id'];?>);" >Q2</a></li>
-                <li <?php echo ($quarterid == 3) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[2]['quarters']['id'];?>);" >Q3</a></li>
-                <li <?php echo ($quarterid == 4) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[3]['quarters']['id'];?>);" >Q4</a></li>
+                <li <?php echo ($activeQuarter == 1) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[0]['quarters']['id'];?>);" >Q1</a></li>
+                <li <?php echo ($activeQuarter == 2) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[1]['quarters']['id'];?>);" >Q2</a></li>
+                <li <?php echo ($activeQuarter == 3) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[2]['quarters']['id'];?>);" >Q3</a></li>
+                <li <?php echo ($activeQuarter == 4) ? 'class="active"' : ''; ?> ><a href="javascript:void(0);" onclick="setQtr(<?php echo $active[3]['quarters']['id'];?>);" >Q4</a></li>
  
 <!--<input type="hidden" id="quarter_id" name="quarter_id" value="<?php $active ?>" />
 <input type="hidden" id="select_field" name="select_field" value="<?php $dailyHuddle ?>" />
