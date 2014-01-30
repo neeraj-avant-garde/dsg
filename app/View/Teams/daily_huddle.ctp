@@ -195,6 +195,10 @@ $sel_d = "$('#slectday').val()";
 
             return false;
         });
+
+        $('#TeamField').change(function(){
+            $('#update_objective_btn').attr('href', '<?php echo Router::url('/'); ?>priorities/update_objectives/Quarter:' + $('#qtrid').val() + '?team=' + $('#TeamField').val())
+        });
 		
         setQtr(<?php echo $activeQuarter ?>)
         setTeam()
@@ -336,11 +340,13 @@ $sel_d = "$('#slectday').val()";
 
     function setQtr(val) {
         $('#qtrid').val(val);
+        $('#update_objective_btn').attr('href', '<?php echo Router::url('/'); ?>priorities/update_objectives/Quarter:' + val + '?team=' + $('#TeamField').val())
     }
     
     function setTeam() {
         if(<?php echo $activeTeam ?> != 0){
             $('[id=TeamField]').val(<?php echo $activeTeam ?>)
+            $('#update_objective_btn').attr('href', '<?php echo Router::url('/'); ?>priorities/update_objectives/Quarter:' + $('#qtrid').val() + '?team=' + $('#TeamField').val())
         }
     }
 </script>
@@ -381,7 +387,7 @@ $sel_d = "$('#slectday').val()";
 						);
 					}
 					?>
-					<?php echo $this->Html->link('Update Objectives', '/priorities/update_objectives', array('title' => 'Update Objectives', 'class' => 'update_objective pull-left margin_btn blue_btn')); ?>
+					<?php echo $this->Html->link('Update Objectives', "/priorities/update_objectives/Quarter:$activeQuarter", array('id' => 'update_objective_btn', 'title' => 'Update Objectives', 'class' => 'update_objective pull-left margin_btn blue_btn')); ?>
 
 				</li>
             </ul>

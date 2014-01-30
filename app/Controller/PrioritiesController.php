@@ -195,6 +195,12 @@ class PrioritiesController extends AppController
 	
 	public function update_objectives(){
 		$cc = $this->Session->read('current_company');
+		
+		$this->loadModel('Team');
+        $dailyHuddle = $this->Team->find('list', array('conditions' => array('company_id'=>$cc)));
+		ksort($dailyHuddle);
+        $this->set(compact('dailyHuddle'));
+
 		$activeQtr = $params['named']['Quarter'];
 		$userId = $this->Session->read('Auth.User.id');
 		$this->layout = 'ajax';
@@ -257,13 +263,17 @@ class PrioritiesController extends AppController
 						'completed'
 					), 'conditions'=>array('Quarter.id'=>$activeQtr, 'User.id'=>$user_id, 'Priority.company_id'=>$cc)));
 				} else {
+				/*
 					$objectives = $this->Priority->find('all', array('fields' => array(
 						'id',
 						'name',
 						'target',
 						'completed'
 					), 'conditions'=>array('Quarter.id'=>$activeQtr, 'Priority.company_id'=>$cc)));
-					
+*/
+                    $this->loadModel('Team');
+                    //echo "$_GET[team], $activeQtr";
+                    $objectives = $this->Team->team_priorities($_GET['team'], $activeQtr);
 				}
 			} else {
 				  $objectives = $this->Priority->find('all', array('fields' => array(

@@ -32,6 +32,14 @@ class Team extends AppModel {
         return $this->query($sql);
     }
 
+    public function team_priorities($teamId, $quarterid) {
+        $sql = "SELECT Priority.id, Priority.name, Priority.target, Priority.completed FROM team_users 
+					JOIN priorities Priority ON team_users.user_id=Priority.user_id 
+					JOIN users ON team_users.user_id=users.id 
+				WHERE team_users.team_id='" . $teamId . "' AND Priority.quarter_id='" . $quarterid . "' ";
+        return $this->query($sql);
+    }
+
     public function team_edit($id, $teamid) {
         $sql = "SELECT * from team_users 
 					JOIN priorities ON team_users.user_id=priorities.user_id 
