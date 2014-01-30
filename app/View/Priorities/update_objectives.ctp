@@ -1,3 +1,9 @@
+<?php 
+$q1=$active[0];
+$q2=$active[1];
+$q3=$active[2];
+$q4=$active[3];
+?>
 <script type='text/javascript'>
 $(function(){
 	$('#update_obj').click(function() {
@@ -34,7 +40,10 @@ $(function(){
 		
 	});
 	
-	$('#team_select').val($('#TeamField').val())
+	//$('#team_select').val($('#TeamField').val())
+	$('#team_select').change(function(){
+	    return loadQtrObjs("/priorities/update_objectives/Quarter:"+ $('#quarterIdCont').val() +"?team="+ $(this).val());
+	});
 });	
 
 </script>
@@ -63,31 +72,26 @@ if($logged){
 </div>
 <div class="pagination pull-right" style='margin:auto'>
 	<ul id='update_objs'>
-		<?php 
-		$q1=$active[0];
-		$q2=$active[1];
-		$q3=$active[2];
-		$q4=$active[3];
-		 ?>
 		<li <?php echo ($activeQtr==$q1)?'class="active"':''; ?>>
-			<?php echo $this->Html->link('Q1','/priorities/update_objectives/Quarter:'.$q1.'?team='.$_GET['team'] , array('onclick'=>'return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q1.'?team='.$_GET['team'].'");', 'id'=>'q1')); ?>
+			<?php echo $this->Html->link('Q1','/priorities/update_objectives/Quarter:'.$q1.'?team='.$_GET['team'] , array('onclick'=>'$(\'#quarterIdCont\').val(1); return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q1.'?team='.$_GET['team'].'");', 'id'=>'q1')); ?>
 		</li>
 		<li <?php echo ($activeQtr==$q2)?'class="active"':''; ?>>
-			<?php echo $this->Html->link('Q2','/priorities/update_objectives/Quarter:'.$q2.'?team='.$_GET['team'] , array('onclick'=>'return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q2.'?team='.$_GET['team'].'");', 'id'=>'q2')); ?>
+			<?php echo $this->Html->link('Q2','/priorities/update_objectives/Quarter:'.$q2.'?team='.$_GET['team'] , array('onclick'=>'$(\'#quarterIdCont\').val(2); return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q2.'?team='.$_GET['team'].'");', 'id'=>'q2')); ?>
 		</li>
 		<li <?php echo ($activeQtr==$q3)?'class="active"':''; ?>>
-			<?php echo $this->Html->link('Q3','/priorities/update_objectives/Quarter:'.$q3.'?team='.$_GET['team'] , array('onclick'=>'return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q3.'?team='.$_GET['team'].'");', 'id'=>'q3')); ?>
+			<?php echo $this->Html->link('Q3','/priorities/update_objectives/Quarter:'.$q3.'?team='.$_GET['team'] , array('onclick'=>'$(\'#quarterIdCont\').val(3); return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q3.'?team='.$_GET['team'].'");', 'id'=>'q3')); ?>
 		</li>
 		<li <?php echo ($activeQtr==$q4)?'class="active"':''; ?>>
-			<?php echo $this->Html->link('Q4','/priorities/update_objectives/Quarter:'.$q4.'?team='.$_GET['team'], array('onclick'=>'return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q4.'?team='.$_GET['team'].'");', 'id'=>'q4')); ?>
+			<?php echo $this->Html->link('Q4','/priorities/update_objectives/Quarter:'.$q4.'?team='.$_GET['team'], array('onclick'=>'$(\'#quarterIdCont\').val(4); return loadQtrObjs("/priorities/update_objectives/Quarter:'.$q4.'?team='.$_GET['team'].'");', 'id'=>'q4')); ?>
 		</li>
 	</ul>
+	<input type="hidden" id="quarterIdCont" value="<?php echo $activeQtr ?>" />
 </div>
 <div class='clr'></div>
     <br />
     <div style="text-align:right">
 	<?php
-    echo $this->Form->input('field', array('type' => 'select', 'class' => 'te_priority', 'label' => false, 'options' => $dailyHuddle, 'default' => 'select', 'id'=>'team_select', 'name'=>'team_select'));
+    echo $this->Form->input('field', array('type' => 'select', 'class' => 'te_priority', 'label' => false, 'options' => $dailyHuddle, 'default' => $_GET['team'], 'id'=>'team_select', 'name'=>'team_select'));
 	?>
 	</div>
 </div>

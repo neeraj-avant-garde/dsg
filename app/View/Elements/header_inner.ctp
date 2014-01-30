@@ -4,7 +4,7 @@
     function loadQtrObjs(url1) {
 
         /* $('#popup_content').html('<img src="<?php echo Router::url('/'); ?>img/loader.gif"/>').css({'text-align':'center'}); */
-
+        
         url1 = '<?php echo Router::url('/'); ?>' + url1;
         $.ajax({
             url: url1,
