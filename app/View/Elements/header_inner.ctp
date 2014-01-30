@@ -18,9 +18,10 @@
 
     function loaduserobjs(val) {
         user_id = $('#user_id').val();
+        var team_id = $('#team_select').val()
         quarter = $('#update_objs li.active a').attr('id');
         quarter = quarter.replace('q', '');
-        url = '<?php echo Router::url('/'); ?>priorities/update_objectives/Quarter:' + quarter + '/user_id:' + user_id;
+        url = '<?php echo Router::url('/'); ?>priorities/update_objectives/Quarter:' + quarter + '/user_id:'+user_id+'&team='+ team_id;
         $.ajax({
             url: url,
             type: "POST",
