@@ -43,6 +43,7 @@ echo $this->Form->create('Priority', array('action' => 'add_priority',
                 
                 echo $this->Form->input('objective_id', array('options' => $objectives, 'label' => 'KPI', 'default' => 'select')) . '<br>';
 		echo $this->Form->input('target', array('type' => 'text', 'placeholder' => 'KPI Target', 'label' => 'KPI Target')) . '<br>';
+		echo $this->Form->input('completed', array('type' => 'text', 'placeholder' => false, 'default'=>0, 'label' => 'Current KPI')) . '<br>';
                 
 		?>
             </td>

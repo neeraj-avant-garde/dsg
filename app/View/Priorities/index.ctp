@@ -186,7 +186,7 @@ echo $this->Form->end();
         <tr>
             <th>Name</th>
             <th>Assigned to</th>
-            <th>Complete %</th>
+            <th>Complete (# or %)</th>
             <th>Date</th>
             <th></th>
         </tr> 

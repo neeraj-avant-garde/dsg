@@ -41,7 +41,7 @@ echo '<thead>';
 echo '<tr>';
 echo '<th>Objective</th>';
 echo '<th>Assigned to</th>';
-echo '<th>Complete %</th>';
+echo '<th>Complete (# or %)</th>';
 echo '<th>Updated</th>';
 echo '<th></th>';
 echo '</tr>';
