@@ -34,6 +34,7 @@ echo $this->Form->create('Priority', array('action' => 'edit_priority',
                 echo $this->Form->input('objective_id', array('options' => $objectives)) . '<br>';
                 echo '<label>KPI  Target</label>';
                 echo $this->Form->input('target', array('text' => array('1', 23, 25), 'placeholder' => 'KPI Target')) . '<br>';
+                echo $this->Form->input('completed', array('text' => $this->request->data['Priority']['completed'], 'label' => 'Current KPI')) . '<br>';
                 ?>
             </td>
         </tr>
